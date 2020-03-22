@@ -1,5 +1,5 @@
 NAME := a-thing-tells-global-ip-on-telegram
-VERSION := v0.1.0
+VERSION := v1.0.0
 REVISION := $(shell git rev-parse --short HEAD)
 
 SRCS:=$(shell find . -type f -name '*.go')

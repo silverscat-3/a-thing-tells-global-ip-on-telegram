@@ -27,9 +27,6 @@ func main() {
 	if nil != err {
 		log.Fatalln(err)
 	}
-
-	bot.Debug = true
-
 	log.Printf("Authorized on account %s", bot.Self.UserName)
 
 	u := tg.NewUpdate(0)
