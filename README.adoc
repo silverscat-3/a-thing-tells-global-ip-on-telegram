@@ -1,0 +1,8 @@
+= A thing tells global IP on Telegram (グローバルIPをTelegramで教えてくれるヤツ)
+読んで字の如く
+
+== License
+Licensed under the Do What The Fuck You Want To Public License Version 2(LICENSE or http://www.wtfpl.net/txt/copying/)
+
+== Author
+https://www.sc3.fun[銀猫さん] (link:mailto:silverscat_3@mail.sc3.fun[silverscat_3@mail.sc3.fun])
